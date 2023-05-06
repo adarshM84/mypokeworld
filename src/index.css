@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  font-family: math, monospace;
+  /* -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.fire {
+  background-color: #ffbda9 !important;
+}
+.grass {
+  background-color: #DEFDE0 !important;
+}
+.electric {
+  background-color: #fff6c8 !important;
+}
+.water {
+  background-color: #d1f1ff !important;
+}
+.ground {
+  background-color: #f4e7da !important;
+}
+.rock {
+  background-color: #dfdfd3 !important;
+}
+.fairy {
+  background-color: #fceaff !important;
+}
+.poison {
+  background-color: #98d7a5 !important;
+}
+.bug {
+  background-color: #f8d5a3 !important;
+}
+.dragon {
+  background-color: #edf1b3 !important;
+}
+.psychic {
+  background-color: #6ddbc7  !important;
+}
+.flying {
+  background-color: #F5F5F5 !important;
+}
+.fighting {
+  background-color: #E6E0D4 !important;
+}
+.normal {
+  background-color: #F5F5F5 !important;
+}
+.ice {
+  background-color: #6deeff !important;
+}
+.dark {
+  background-color: #9aa1a1 !important;
+}
+.steel {
+  background-color: #dfdddd !important;
+}
+.ghost {
+  background-color: #d7a6ff !important;
+}
